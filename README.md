@@ -100,7 +100,7 @@ The ignore file accepts:
 * Blank lines
 * Specific files
 * File patterns (this is converted to a regex, so you have full control of the pattern)
-* A regex's begining with `:`.
+* An unescaped regex begining with `:`
 
 # Controlling shutdown of your script
 
