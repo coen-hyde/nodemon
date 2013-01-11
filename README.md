@@ -92,7 +92,7 @@ You can use the [example ignore file](http://github.com/remy/nodemon/blob/master
     /public/*     # static files
     ./README.md   # a specific file
     *.css         # ignore any CSS files too
-    :(\d)*\.js    # monitor javascript files with only letters digits in their name
+    :(\d)*\.js    # monitor javascript files with only digits in their name
 
 The ignore file accepts:
 
